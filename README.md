@@ -4,7 +4,7 @@ This application provides weather information sourced from two providers: OpenWe
 
 Here's how to get started:
 1. Register at OpenWeatherMap: Sign up on the OpenWeatherMap website to create an account. For the purpose of this app a free subscription is enough.
-2. Retrieve Your API Key: After registering, log in to your OpenWeatherMap account and navigate to your profile. Click on "My API keys" to generate a personal API key. Copy this key as you'll need to paste it into the designated line in the code (indicated as api_key). 
+2. Retrieve Your API Key: After registering, log in to your OpenWeatherMap account and navigate to your profile. Click on "My API keys" to generate a personal API key. Copy this key as you'll need to paste it into the designated line in the code (line 138, indicated as api_key). 
 
 With your API key ready, you're all set to use the Weather App:
 1. Run the Code: Execute the provided code. A popup window will appear.
