@@ -12,7 +12,9 @@ With your API key ready, you're all set to use the Weather App:
 3. Select Language: Choose the language for the app interface. You can choose between English, Czech and Slovak.
 4. Choose Weather Display: The app offers three distinct buttons:
 	• What’s the weather?: This button provides essential weather details such as temperature, wind speed, and precipitation.
+
 	• More information: Select this button for more comprehensive weather information.
+
 	• 7-Day Forecast: The final button generates a chart displaying a 7-day temperature forecast.
 
 By following these steps, you'll be able to utilize the Weather App effectively and access the weather information you need.
