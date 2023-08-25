@@ -11,7 +11,7 @@ With your API key ready, you're all set to use the Weather App:
 2. Enter Location: In the popup window, input the desired city and its corresponding country code. 
 3. Select Language: Choose the language for the app interface. You can choose between English, Czech and Slovak.
 4. Choose Weather Display: The app offers three distinct buttons:
-5. 
+   
 	• What’s the weather?: This button provides essential weather details such as temperature, wind speed, and precipitation.
 
 	• More information: Select this button for more comprehensive weather information.
