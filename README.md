@@ -19,7 +19,7 @@ With your API key ready, you're all set to use the Weather App:
 
 By following these steps, you'll be able to utilize the Weather App effectively and access the weather information you need.
 
-For seamless execution of the code, please keep both the Python code file and the folder containing visual icons in the same directory. Further, please, ensure that you have the following packages installed: requests, Pillow, numpy, and matplotlib. To do that first install 'pip' (usually comes installed with Python versions 3.4 and above), open a terminal or command prompt and then execute the following commands: 
+For seamless execution of the code, please keep both the Python code file and the folder containing visual icons in the same directory. Further, please, ensure that you have the following packages installed: requests, Pillow, numpy, matplotlib and pytz. To do that first install 'pip' (usually comes installed with Python versions 3.4 and above), open a terminal or command prompt and then execute the following commands: 
 
 pip install requests 
 
@@ -28,5 +28,7 @@ pip install pillow
 pip install numpy
 
 pip install matplotlib
+
+pip install pytz
 
 
